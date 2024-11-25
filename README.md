@@ -2,6 +2,8 @@
 
 对应MC版本1.21.3。与ajjnn数据包冲突。
 
+ajjnn：https://github.com/AjjMC/ajjnn
+
 > 手绘图像的转换：Ehan写的
 >
 > 神经网络模型：ajjnn
