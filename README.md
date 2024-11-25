@@ -127,3 +127,7 @@ The neural networks receive an input vector of 784 features, which take the valu
 | ``ajjnn:data status``     | Model status               | Byte          |
 
 The currently loaded model's architecture and parameters are stored in the ``ajjnn:data sequence`` NBT tag. Mapmakers can set the input ``ajjnn:data input``, perform a forward pass with ``/function ajjnn:__forward`` and retrieve the output ``ajjnn:data output``. The status of the model is determined by the ``ajjnn:data status`` NBT tag. If this value is set to ``0b``, the model is idle and can be used. If it is set to ``1b``, the model is running and cannot be used. Once the output has been calculated, this value is set to ``2b`` for a single tick and then back to ``0b``.
+
+## Copyright
+
+Copyright © 2023 - 2025 Ajj (https://github.com/AjjMC/ajjnn)
