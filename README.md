@@ -45,6 +45,84 @@ ajjnn：https://github.com/AjjMC/ajjnn
 分数为1就是画完了。
 ```
 
+ 
+
+#### 手动输入图案：
+
+```
+data modify storage ajjnn:data input set value [\
+\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d\
+\
+]
+```
+
+写成这种排版是为了说明，输入的列表里存储的是一个28*28的画板，画板里有784个像素点，每个像素点的取值范围是0~1，表示图案在这一点的透明度，0是完全透明，1是完全不透明，以此类推。
+
+注意，输入的图案要尽量上下左右居中。
+
+比如这是一个输入了字母"G"的图案的范例：
+
+```
+data modify storage ajjnn:data input set value [\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,1d,1d,1d,1d,0d,0d,0d,0d,0d,0d,0d,0d,1d,1d,1d,1d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,1d,1d,1d,1d,0d,0d,0d,0d,1d,1d,1d,1d,1d,1d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,1d,1d,0d,1d,1d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,1d,1d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,\
+0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d,0d\
+]
+```
+
 　
 
 ### 以下为ajjnn的说明：
