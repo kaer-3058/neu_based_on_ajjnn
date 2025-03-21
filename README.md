@@ -39,6 +39,10 @@ ajjnn：https://github.com/AjjMC/ajjnn
 
 这三个模型都只支持印刷体
 
+执行这个函数可手动检测输入图案：function ajjnn:_forward
+若图案是玩家手绘出来的，则图案会自动存储在路径：storage ajjnn:data input
+图案存储在这个路径可供用户手动检测
+
 获得输出：data get storage ajjnn:temp decoded
 
 检测玩家是否画完：scoreboard players get #ajnn_RUNNING int
